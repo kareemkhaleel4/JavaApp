@@ -1,0 +1,25 @@
+0choose the write statement to display -welcome- on the screen:
+System.Println(“welcome”);
+*System.out.println("welcome");
+cout<<”welcome”;
+System.out.println(welcome);
+0which of the following declare an integer:
+integer x;
+inte x;
+declare x;
+*int x;
+0what does -char x;- do:
+declare a character with value x;
+declare a character named x;
+declare a character named x has null value  ;
+*declare a character named x has rubbish data value;
+0choose the wrong statement of the following:
+System.out.println("wrong");
+*system.out.println(“right”);
+float x;
+double y;
+0one of the following declare float number
+flt x;
+declare float x1;
+*float x;
+float 1y;

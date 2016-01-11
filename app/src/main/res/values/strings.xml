@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">JavaApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_question">Question</string>
+    <string name="str1">Kareem\nKhaleel</string>
+
+    <string-array name="lvl1" id="lvl1">
+        <item>Kareem</item>
+
+    </string-array>
+    <string-array name="lvl2" id="lvl2">
+
+        <item>Kareem</item>
+
+    </string-array>
+    <string-array name="lvl3" id="lvl3">
+        <item>Kareem</item>
+
+    </string-array>
+    <string-array name="lvl4" id="lvl4">
+        <item>Kareem</item>
+
+    </string-array>
+    <string-array name="lvl1l" id="lvl1l">
+        <item>Qustion1</item>
+        <item>ans1</item>
+        <item>ans2</item>
+        <item>ans3</item>
+        <item>ans4</item>
+
+    </string-array>
+    <string-array name="lvl2l" id="lvl2l">
+
+        <item>Kareem</item>
+
+    </string-array>
+    <string-array name="lvl3l" id="lvl3l">
+        <item>Kareem</item>
+
+    </string-array>
+    <string-array name="lvl4l" id="lvl4l">
+        <item>Kareem</item>
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main" tools:context=".MainActivity"
+    android:background="@drawable/bg">
+
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="4"
+        android:columnCount="3"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Score"
+            android:id="@+id/textView2"
+            android:background="#FAFFFFFF"
+            android:textColor="#FF0000"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:background="#FAFFFFFF"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:background="#FAFFFFFF"
+
+            />
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="150dp"
+            android:text="New Button"
+            android:id="@+id/button1"
+            android:background="@drawable/shp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="2"
+            />
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="150dp"
+            android:text="New Button"
+            android:id="@+id/button2"
+            android:enabled="false"
+            android:background="@drawable/shp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="2"
+            />
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="150dp"
+            android:text="New Button"
+            android:id="@+id/button3"
+            android:enabled="false"
+            android:background="@drawable/shp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="2"
+            />
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="150dp"
+            android:text="New Button"
+            android:id="@+id/button4"
+            android:enabled="false"
+            android:background="@drawable/shp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="2"
+            />
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="150dp"
+            android:text="New Button"
+            android:id="@+id/button5"
+            android:enabled="false"
+            android:background="@drawable/shp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="2"
+            />
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="150dp"
+            android:text="New Button"
+            android:id="@+id/button6"
+            android:enabled="false"
+            android:background="@drawable/shp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="2"/>
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="150dp"
+            android:text="New Button"
+            android:id="@+id/button7"
+            android:enabled="false"
+            android:background="@drawable/shp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="2"/>
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="150dp"
+            android:text="New Button"
+            android:id="@+id/button8"
+            android:enabled="false"
+            android:background="@drawable/shp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="2"/>
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="150dp"
+            android:text="New Button"
+            android:id="@+id/button9"
+            android:enabled="false"
+            android:background="@drawable/shp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="2"/>
+
+
+    </GridLayout>
+</RelativeLayout>

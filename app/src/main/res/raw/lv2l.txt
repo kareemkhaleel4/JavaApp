@@ -1,0 +1,25 @@
+0 Which of the following means that in order for the conditional to happen, either x must be less than 3 or y must be greater than or equal to 4 ?
+If ((x < 3) && (y > 4))
+If ((x < 3) || (y > = 4))
+If (x < 3 y >= 4)
+* If ((x > 3) || (y < = 4))
+0what is the output of:  String x=”4”; x++; System.Println(x);
+5
+41
+14
+*syntax error
+0int x=3; int y=4; If(x%2==1){ x++; y--;} System.out.println(x+” “+y); The output is:
+error
+43
+3 4
+*4 3
+0if(x>3&&y<4||z==1)The condition happens when:
+x less than 3 and y greater than 4 and z==1
+x less than 3 and y greater than 4 or z not equal 1
+never happen
+*z==1 or (x greater than 3 and y less than 4)
+0int x=1,y=2,z=3; if((x==1&&y>2) || ((z>=3&&y<2) || x==10) x++; y+=2; the value of x,y,z is :
+2 2 3
+3 2 3
+3 4 3
+*2 4 3

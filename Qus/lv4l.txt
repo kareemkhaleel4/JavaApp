@@ -1,0 +1,26 @@
+0 What displays from the following statements? String word = "abcde"; for (int i = 0; i <4; i+=2) System.out.print(word[i]);
+ab
+ac
+bd
+* ace
+0Given the declaration : int [ ] ar = {1,2,3,4,5}; What is the value of ar[3]?
+5
+2
+3
+*4
+0What loop will display each of the numbers in this array on a separate line: float [ ] nums= {1.1f, 2.2f, 3.3f};
+for (i = 1; i < 3; i++) System.out.println(nums[i]);
+for (i = 0; i <= 3; i++) System.out.println(nums[i]);
+for (i = 1; i <= 3; i++) System.out.println(nums[i]);
+*for (int i =0; i < 3; i++) System.out.println( nums[i]);
+
+0The last value in an array called ar can be found at index:
+0
+1
+ar length
+* (ar lendth) -1
+0Given the declaration int [ ] nums = {8, 12, 23, 4, 15}, what expression will display the first element in the array (ie the number 8)
+System.out.print("The number is : " + nums[1]);
+System.out.print("The number is : " + nums[8]);
+System.out.print("The number is : " + nums);
+*System.out.print("The number is : " + nums[0]);

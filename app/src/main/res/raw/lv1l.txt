@@ -1,0 +1,25 @@
+0what is the output of the following code:  int x;x=10+1; System.Println(“x”);
+10
+11
+syntax error
+*x
+0what is the output of the following code: int x;x=10+1;System.Println(x);
+10
+syntax error
+x
+*11
+0which of the following increase the value of x by 2:
+x++;
+++x;
+add x=2;
+*x+=2;
+0which of the following increase the value of x:
+x+=2;
+x=x+1;
+++x;
+*all of above
+0the best type to save 2.15 is:
+int 
+char
+none of above
+*float

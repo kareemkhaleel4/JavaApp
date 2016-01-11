@@ -1,0 +1,25 @@
+0if you know that x is an integer choose the statement with syntax error:
+if (x==2)
+if(x==3.6)
+If(x==’s’)
+if (x==”l”)
+0the following code : if(x==2); x++;
+has a syntax error 
+do nothing 
+add 1 to x if x=2
+*add 1 to x any way
+0String x; x=”4”; x+=”1” x++; Which is the wrong statement:
+string x;
+x=”4”;
+x+=”1”;
+*x++;
+how much errors in the following code:String s;s=”d”int x=4; s+=x;
+0
+2
+3
+*1
+0which of the following has syntax error assuming you have integer named x:
+if(x==3)
+if(x==’s’)
+If(x!=3)
+*If(x)

@@ -1,0 +1,25 @@
+0 choose the correct syntax:
+for( i=0,i<5,i++)
+for(i=0;i++;i<5)
+for(int i=1;i<5)
+*for(i=1;i<5;i++)
+0choose the wrong statement:
+-for(int i=0;i<4;)
+for(;;)
+for(i=1;i<=3;i+=2)
+*for(i=1;)
+0choose the wrong statement
+while(true)
+while(x==3)
+while(false)
+*while(i=3;i<9)
+0choose the wrong statement:
+for(;;)
+for(int i=-3;;i++)
+while(x==’k’)
+* for(;i<=3;i+=2;j+=3)
+0for(i=1;i<5;i++){ } this statement :
+wrong statement
+correct statement
+must remove brasses {}
+*need ; between brasses { ; }
